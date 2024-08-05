@@ -1,14 +1,12 @@
-***
-
+---
 permalink: /
 title: "Prof. Wenjun Liu"
 author\_profile: true
 redirect\_from:
 
-*   /about/
-*   /about.html
-
-***
+  - /about/
+  - /about.html
+---
 
 Dr. Liu currently is a full professor of School Microelectronics at Fudan University, China. He graduated in 2009 from the Department of Microelectronics at Fudan University with a Ph.D. in Microelectronics and Solid-State Electronics. He conducted postdoctor research, from 2009-2012, on micro-nano electronic devices and processes, failure analysis, and wide-bandgap semiconductor power device fabrication at Nanyang Technological University in Singapore, Singapore Institute of Manufacturing Technology. From 2012 to 2015, he was funded by the Japan Society for the Promotion of Science (JSPS) and served as a JSPS Special Research Fellow in Department of Materials Engineering at School of Engineering, University of Tokyo, Japan. After that, he joined School of Microelectronics at Fudan University as an Associate Professor under the talent recruitment program.
 

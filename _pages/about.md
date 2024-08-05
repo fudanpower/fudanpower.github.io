@@ -16,7 +16,7 @@ Our research group specializes in gallium oxide power devices design and fabrica
 
 # Research Fields
 
-1.  新型宽禁带氧化物半导体器件与工艺（Ga~2~O~3~ Power Electronics）
-2.  功能器件与电路（HfO~2~ Based Ferroelectric Device and Circuit）
+1.  新型宽禁带氧化物半导体器件与工艺（Ga2O3 Power Electronics）
+2.  功能器件与电路（HfO2 Based Ferroelectric Device and Circuit）
 3.  集成电路器件可靠性（Integrated Circuit Device and Reliability）
 

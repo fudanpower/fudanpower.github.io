@@ -1,6 +1,6 @@
 ---
 title: "Members"
-excerpt: "we are <br/><img src='/images/wenjunliu1.png'>"
+excerpt: "we are <br/><img src='/images/wenjunliu.jpg'>"
 collection: members
 ---
 

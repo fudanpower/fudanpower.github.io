@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "Fudan University, School of Microelectronics"
-date: Spring Semester
+date: 2024-03-01
 location: "Shanghai, China"
 ---
 

@@ -9,5 +9,4 @@ location: "Shanghai, China"
 ---
 
 Semiconductor Device Characterizations
-Master Course
-======
+

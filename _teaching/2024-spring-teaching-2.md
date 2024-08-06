@@ -9,5 +9,4 @@ location: "Shanghai, China"
 ---
 
 Integrated Circuit Reliability and Its Applications
-Master Course
-======
+

@@ -9,5 +9,3 @@ location: "Shanghai, China"
 ---
 
 Device Reliability principle and characterization
-Undergraduate Course
-======

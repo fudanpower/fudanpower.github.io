@@ -206,7 +206,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  members:
     output: true
     permalink: /:collection/:path/
   talks:

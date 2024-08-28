@@ -8,5 +8,8 @@ main:
     
   - title: "Members"
     url: /members/
+  
+  - title: "Openings"
+    url: /openings/
         
 

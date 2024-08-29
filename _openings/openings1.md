@@ -1,15 +1,14 @@
 ---
-title: "PhD and Master Positions are in 2025 Spring Semester"
+title: "Project Assistant"
 collection: openings
 #type: "Undergraduate course"
-permalink: /openings/
-openings1
+permalink: /openings/openings1
 
 #date: 2024-03-01
 #location: "Shanghai, China"
 ---
-Research Fields
-1.	Gallium oxide based power devices and circuits
-2.	Novel ferroelectric devices and process, reliability   
-3.	Circuit design, reliability verification and application, collaborate with company
+Requirements:
+1.	CET4>450
+2.	Highly self-motivated, holding a Bachelor degree at least.
+3.	Coordinating the project team and/or financial reimbursement partly
 

@@ -6,7 +6,7 @@ permalink: /openings/openings2
 #date: 2024-03-01
 location: "Fudan University Handan Campus"
 ---
-Research Field:
+Research Field:<br/>
 Amper level gallium oxide power device and its application<br/>
 Requirements:
 1.	CET6>450

@@ -2,9 +2,7 @@
 title: "Postdoctor positions for a two-year contract"
 collection: openings
 #type: "Undergraduate course"
-permalink: /openings/
-openings2
-
+permalink: /openings/openings2
 #date: 2024-03-01
 location: "Fudan University Handan Campus"
 ---

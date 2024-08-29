@@ -2,8 +2,7 @@
 title: "Project Assistant"
 collection: openings
 #type: "Undergraduate course"
-permalink: /openings/
-openings3
+permalink: /openings/openings3
 
 #date: 2024-03-01
 #location: "Shanghai, China"

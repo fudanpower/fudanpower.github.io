@@ -1,5 +1,5 @@
 ---
-title: "Contact Information"
+title: "More Information"
 collection: openings
 #type: "Undergraduate course"
 permalink: /openings/contact

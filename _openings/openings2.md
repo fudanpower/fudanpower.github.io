@@ -1,5 +1,5 @@
 ---
-title: "Postdoctor positions for a two-year contract"
+title: "Postdoctor positions for a two-year contract @ Fudan University Handan Campus"
 collection: openings
 #type: "Undergraduate course"
 permalink: /openings/openings2

@@ -1,5 +1,5 @@
 ---
-title: "High Performance FeFET with $alpha$-IGZO Channel Enabled by Atomic-Layer-Deposited HfO 2 Interfacial Layer"
+title: "High Performance FeFET with α-IGZO Channel Enabled by Atomic-Layer-Deposited HfO 2 Interfacial Layer"
 collection: publications
 permalink: /publication/2024-01-01-High-Performance-FeFET-with-alpha-IGZO-Channel-Enabled-by-Atomic-Layer-Deposited-HfO-2-Interfacial-Layer
 date: 2024-01-01

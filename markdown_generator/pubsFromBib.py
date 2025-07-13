@@ -15,7 +15,7 @@
 # TODO: Make this work with other databases of citations, 
 # TODO: Merge this with the existing TSV parsing solution
 import os
-os.chdir("D:/GitHub/fudanpower.github.oi/markdown_generator")
+os.chdir("D:/ProjectFile/fudanpower.github.io/markdown_generator")
 
 
 from pybtex.database.input import bibtex

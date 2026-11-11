@@ -1,6 +1,6 @@
 ---
 title: "Members"
-excerpt: "<br/><img src='/images/members1.png'><br/><img src='/images/members2.png'><br/><img src='/images/members3.png'><br/><img src='/images/members4.png'>"
+excerpt: "<br/><img src='/images/members1.png'><br/><img src='/images/members2.png'><br/><img src='/images/members3.png'><br/><img src='/images/members4.png'><br/><img src='/images/members5.png'><br/><img src='/images/members6.png'>"
 collection: members
 ---
 
